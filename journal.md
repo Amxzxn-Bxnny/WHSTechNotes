@@ -10,3 +10,6 @@ me learn better so oh well. I can't wait to learn other coding languages and bas
 # September 10, 2024
 
 Easy and simple, honestly I got it first try and I'm not sure how others didn't. Though I don't mean to be condescending, everyone moves at their own pace I guess. It was easier for me to just read the instructions on the Github stuff that you gave me the link to.
+
+# September 10, 2024
+This is vscode.dev!
