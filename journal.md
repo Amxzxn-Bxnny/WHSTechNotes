@@ -1,4 +1,4 @@
-# September 4, 2024, and September 5, 2024,
+# September 4, 2024,
 Python for me is kinda hard but only because I'm used to coding with blocks and unfortunately for me in my Fundamentals of Computer Science Class the kids weren't very smart and constantly dragged me down. Also my teacher didn't explain things well. Anyway, Python isn't too bad but I need to be more resourceful when it comes to my time because I'm a bit behind. Today, I'm definitly going to be faster and more vigilant with my time to take the necessary amount to take notes and actions in my Python coding journey.
 
 # September 9, 2024
