@@ -13,3 +13,6 @@ Easy and simple, honestly I got it first try and I'm not sure how others didn't.
 
 # September 10, 2024
 This is vscode.dev!
+
+# September 17, 2024
+This is a free week.
