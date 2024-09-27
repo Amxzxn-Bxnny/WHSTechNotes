@@ -1,5 +1,8 @@
 # September 4, 2024,
-Python for me is kinda hard but only because I'm used to coding with blocks and unfortunately for me in my Fundamentals of Computer Science Class the kids weren't very smart and constantly dragged me down. Also my teacher didn't explain things well. Anyway, Python isn't too bad but I need to be more resourceful when it comes to my time because I'm a bit behind. Today, I'm definitly going to be faster and more vigilant with my time to take the necessary amount to take notes and actions in my Python coding journey.
+Python for me is kinda hard but only because I'm used to coding with blocks and unfortunately for me in my Fundamentals of Computer Science Class the kids weren't very smart and constantly dragged me down. 
+Also my teacher didn't explain things well. 
+Anyway, Python isn't too bad but I need to be more resourceful when it comes to my time because I'm a bit behind. 
+Today, I'm definitly going to be faster and more vigilant with my time to take the necessary amount to take notes and actions in my Python coding journey.
 
 # September 9, 2024
 
@@ -9,10 +12,18 @@ me learn better so oh well. I can't wait to learn other coding languages and bas
 
 # September 10, 2024
 
-Easy and simple, honestly I got it first try and I'm not sure how others didn't. Though I don't mean to be condescending, everyone moves at their own pace I guess. It was easier for me to just read the instructions on the Github stuff that you gave me the link to.
+Easy and simple, honestly I got it first try and I'm not sure how others didn't. 
+Though I don't mean to be condescending, everyone moves at their own pace I guess. 
+It was easier for me to just read the instructions on the Github stuff that you gave me the link to.
 
 # September 10, 2024
 This is vscode.dev!
 
 # September 17, 2024
 This is a free week.
+
+# September 26, 2024
+Following instructions exactly as they're told in coding are important because it'll get you where you need to be with little to no problems. 
+If you keep your code nice and precise your code should come out like how you planned it to come out. 
+If you miss a step or make a mistake with coding you may get an error and your code will malfunction or just simply not work. 
+If you maintian good habits of paying attention to detail it'll be beneficial to you by allowing you to notice mistakes or instructions others might've missed.
