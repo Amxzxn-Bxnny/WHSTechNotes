@@ -23,3 +23,6 @@ Things like phones, tvs, and even a washing machine were created thanks to compu
 
 # October 7, 2024
 For this assignment I researched a video game developer. Video game developers mostly just design/make video games for consoles, computers, and mobile. The skills required to be a video game developer are storytelling ability, creativity, game mechanics, programming skills, and etc. Education required is a bachelor's at minimum. By being a game developer you should expect to grow more creatively and become better at coding. I'm not intersted in being a video game developer myself but it does seem fun.
+
+# October 18, 2024
+Even if you don't have a job that includes the need to code, coding is still an important thing to know. Coding is capable of giving you subperb problem solving skill by making you break down the steps to complex problems and simpifying it into something easier to understand. If you're in a field like education, finance, and healthcare then knowing how to code might help you with things like problem solving, creativity, and critical thinking skills. Knowing code can also help enhance creativity and collaboration by allowing you to think outside the box and giving to the courage and humility to ask for help and work with others. 
