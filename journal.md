@@ -26,3 +26,7 @@ For this assignment I researched a video game developer. Video game developers m
 
 # October 18, 2024
 Even if you don't have a job that includes the need to code, coding is still an important thing to know. Coding is capable of giving you subperb problem solving skill by making you break down the steps to complex problems and simpifying it into something easier to understand. If you're in a field like education, finance, and healthcare then knowing how to code might help you with things like problem solving, creativity, and critical thinking skills. Knowing code can also help enhance creativity and collaboration by allowing you to think outside the box and giving to the courage and humility to ask for help and work with others. 
+
+# October 21, 2024
+AI is becoming a more prominent and controversial topic in today's society so I'm here to give the benefits and risks of AI. One benefit of AI is it reduces human errors by doing things with more efficiency and with more accuracy. AI saves time and can aid us people digitally by giving us answers to questions we may have. It makes unbiased decisions which can really be helpful when certain people can't seperate facts and opinions.
+AI can be helpful but it also poses risks as well. Although it can't take over the world, it can promote human laziness by causing humans to heavily rely on it over time. 
