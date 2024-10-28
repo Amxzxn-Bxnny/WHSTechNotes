@@ -29,4 +29,5 @@ Even if you don't have a job that includes the need to code, coding is still an 
 
 # October 21, 2024
 AI is becoming a more prominent and controversial topic in today's society so I'm here to give the benefits and risks of AI. One benefit of AI is it reduces human errors by doing things with more efficiency and with more accuracy. AI saves time and can aid us people digitally by giving us answers to questions we may have. It makes unbiased decisions which can really be helpful when certain people can't seperate facts and opinions.
-AI can be helpful but it also poses risks as well. Although it can't take over the world, it can promote human laziness by causing humans to heavily rely on it over time. 
+AI can be helpful but it also poses risks as well. Although it can't take over the world, it can promote human laziness by causing humans to heavily rely on it over time. AI can also replace humans for jobs that AI can perform "better" and more efficiently. AI also lacks emotional intelligence so there's that too. No sure why, but humans become paranoid over things that don't have feelings too which is why it's seen as a drawback.
+
