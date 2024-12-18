@@ -49,3 +49,6 @@ From what I've heard, there has been new developements in VR technology that all
 
 # December 9, 2024
 To me, brainrot means memes that people on social media push until it's so annoying that people begin to use it ironically. Some examples of that is things like the Ohio memes, Hawk Tuah, and phrases like "Ho is u cool?". In all honesty, I have a life outside of social media so I it doesn't affect me in a negative way. If anything, I find brainrot to be really funny. Never heard of slop, sounds European, but I've heard of lore and I love that word. When it comes to lore, I'd say mine is pretty but I can make good lore for characters. Moving on, if you're not a child or an immature person in general, it's very easy to engage with technology without being falling for brainrot. 
+
+# December 16, 2024
+I am absolutely looking forward to my winter break. For two whole weeks I don't have to do any school work and I can just rot in bed. I can eat good foods, sleep in, and right after my break ends it will be my birthday. During winter break, there's Chrismas, my birthday, and my baby brother's birthday. Fun fact, my dad's birthday is on Christmas. I'm not actually excited for Christmas but I am excited to be staying at home for two weeks straight.
