@@ -52,3 +52,6 @@ To me, brainrot means memes that people on social media push until it's so annoy
 
 # December 16, 2024
 I am absolutely looking forward to my winter break. For two whole weeks I don't have to do any school work and I can just rot in bed. I can eat good foods, sleep in, and right after my break ends it will be my birthday. During winter break, there's Chrismas, my birthday, and my baby brother's birthday. Fun fact, my dad's birthday is on Christmas. I'm not actually excited for Christmas but I am excited to be staying at home for two weeks straight.
+
+# January 8, 2024
+Looking back I really enjoyed being able to be on my phone, eat snacks, and work on my project. I like this class a lot. I really just want to learn how to make a website and maybe make a game or app or something like that. I really like python and hope to master is so I can code games for fun.
