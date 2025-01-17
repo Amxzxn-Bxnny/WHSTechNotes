@@ -55,3 +55,6 @@ I am absolutely looking forward to my winter break. For two whole weeks I don't 
 
 # January 8, 2024
 Looking back I really enjoyed being able to be on my phone, eat snacks, and work on my project. I like this class a lot. I really just want to learn how to make a website and maybe make a game or app or something like that. I really like python and hope to master is so I can code games for fun.
+
+# Janurary 13, 2024
+I don't think Ai is going to take over EVERYTHING since there are some things only humans can do. An example is that only us humans can fix AI or create code from scratch. What I mean by that is the AI cannot just code things without being given directions to do so. AI doesn't think on it's own, it needs an algorithm or instructions to do something (at least from what I know). Even if it does take over some jobs, it'll create new jobs. Like, if they use AI to make janitor robots they have to have someone code the robot to make it clean. I highly doubt janitor AI will be introduced anytime soon but if it is introduced within my timeline of existence then I think humans need to have an intervention on their laziness. Plus, it would probably be more cost effective to have an AI robot janitor rather than a real human Janitor.
