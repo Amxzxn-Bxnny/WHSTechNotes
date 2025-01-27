@@ -61,3 +61,11 @@ I don't think Ai is going to take over EVERYTHING since there are some things on
 
 # January 22, 2025
 Well for one, I think this whole ban thing should be over and done with. The whole interview thing where that old guy kept asking dumb questions really speaks for our government quite a bit. I also think they have no legit reason to ban it, they only banned it because they speculated that the Chinese were stealing our data and last I don't think conjecture is a good basis to just ban something that everyone likes. It makes the American government seem idiotic, paranoid, and pretty rascist which affects US citizens as a whole. In all honesty, to protect users data you just have to hope and pray their not stupid. Things like sharing credit card numbers (or worse social security numbers) can get people in lots of trouble when it comes to data. It would propably be a good idea to create warnings if this happens like: Warning! Data Security at Risk! Or something along those lines. The only lessons I can learn from this is that if your not a US made company their gonna accuse you of stealing data and ban you.
+
+# January 27, 2025
+|Name      |Car    |Mistake    |
+| -------- | ----------- | ----------------------- |
+| Jimmy    | Honda Civic | Drilled hole in gas tank|
+| Kayla    | Sierra      | fixed wrong problem     |
+| Bart     | Toyota      | left stains             |
+| Harrison | Forester    | Left the oil cap off    |
