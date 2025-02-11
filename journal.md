@@ -72,3 +72,12 @@ Well for one, I think this whole ban thing should be over and done with. The who
 
 # February 3, 2025
 Some measures that could be taken to avoid accidents like that air crash collision is, for one, to teach people to rely less on technology. Of course it is still needed for the air craft but some things don't need to rely solely on technology. Another thing they can do is increase protection from Malware and viruses, keep it updated at all times, and conduct regular maintenance. Hire people who are dedicated to their jobs. Someone who would willingly check over and over to make sure the program isn't at risk of failure to secure human lives. 
+
+# February 11, 2025
+|Shape  |Color  |Number  |
+|-------|-------|--------|
+| Circle | Green | 7 |
+| Square | Yellow | 5 |
+| Hexagon | Brown | 6 |
+| Triangle | Purple | 4 |
+| Octagon | Red | 3 |
