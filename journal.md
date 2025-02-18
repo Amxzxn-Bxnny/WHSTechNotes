@@ -81,3 +81,6 @@ Some measures that could be taken to avoid accidents like that air crash collisi
 | Hexagon | Brown | 6 |
 | Triangle | Purple | 4 |
 | Octagon | Red | 3 |
+
+# February 18, 2025
+Last week I finally learned what 40 acres and a mule is. I didn't watch the halftime show but I did hear about the term on social media, which is crazy because this is probably something I could've been taught in my history class last year. Basically, 40 acres and a mule was a promise made to give land and resources to previously enslaved African Americans. It was intented to help them become for economically self-sufficent. Suprise, surprise, the next president after Abraham Lincoln reversed it, forcing African Americans to give up their land back to their former confederate owners and making the African Americans share croppers. What's worse is this has long time affected African Americans; even in modern day USA. Nowadays, 40 acres and a mule symbolizes broken promises and inequality to black Americans.
