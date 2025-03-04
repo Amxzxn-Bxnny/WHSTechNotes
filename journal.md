@@ -88,3 +88,12 @@ Last week I finally learned what 40 acres and a mule is. I didn't watch the half
 # February 24, 2025
   Well, there already is a way technology bridges the language gap that adults have with teens using slang. It's called urban dictionary.I think it's pretty dumb to have a slang interpretator because we already have urban dictionary. However, if it ever became a big problem, which I doubt, then someone can just make an app with current teenage slang and add definitions and examples. 
   Also it would be stupid to make slang formal since it's already informal, considering the fact most slang is abbreviations. Slang is used among teenagers, usually with friends or people they're comfortable with, automatically making it informal. If someone were to misunderstand slang words like "HELP"-which is commonly used when someone is 'dying' of laughter-it could lead to adults thinking this person is in trouble. Luckily, only old people would be that dense so I think we're okay.
+  
+# March 3, 2025
+|Name |Power |Challenge |
+|-----|-----|------|
+| Zara | Telekenesis | Secure Building |
+| Aether | Weather Manipulation | Prevent Assassination |
+| Thorne | Invisibility | Underwater Rescue |
+| Silver| Mind Control | Retrieve Stolen Goods |
+| Tangier | Shapeshifting | Extract Prisoner |
