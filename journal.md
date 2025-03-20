@@ -97,3 +97,7 @@ Last week I finally learned what 40 acres and a mule is. I didn't watch the half
 | Thorne | Invisibility | Underwater Rescue |
 | Silver| Mind Control | Retrieve Stolen Goods |
 | Tangier | Shapeshifting | Extract Prisoner |
+
+# March 17, 2025
+During my spring break the only technology I used was my phone, tv, and I guess riding in my grandma's car if that counts. On normal days, I would wake up and use my electrical toothbrush to brush my teeth. Then, I'd play on my phone for hours until heating up some food in my microwave. These are just a few ways I unknowingly interacted with technology.
+My toothbrush made cleaning my teeth more efficient and satisfying, microwaving my food allowed me to heat up nutrients without too much trouble, and playing games on my phone kept me entertained. I do admit while I'm using said technology I'll sometimes wonder what kind of code was used to make it work.
