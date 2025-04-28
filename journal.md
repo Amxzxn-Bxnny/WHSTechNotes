@@ -119,7 +119,7 @@ For one, the U.S. is notorious for it's many school shootings. Not only that but
 
 # April 22, 2025
 Dear Ms Selwyn,
-  Hi, I know this may seem random but I'm sending you this as an appreciation email. I'm not sure if you'll even see this, but if you do sorry if these seems random. For context, I'm doing this as a journal grade and you're probably the only teacher who hasn't ever gotten on my nerves. One thing I appreciate about you is that you allow me to turn in my work late. I'm a huge procrastinator, I get distracted easily, and I have the memory of a goldfish. That's a deadly combo if you ask me. You have single handedly allowed me to maintain mostly all A's year round with your patience and kindess. 
+  Hi, I know this may seem random but I'm sending you this as an appreciation email. I'm not sure if you'll even see this, but if you do, sorry if this seems random. For context, I'm doing this as a journal grade and you're probably the only teacher who hasn't ever gotten on my nerves. One thing I appreciate about you is that you allow me to turn in my work late. I'm a huge procrastinator, I get distracted easily, and I have the memory of a goldfish. That's a deadly combo if you ask me. You have single handedly allowed me to maintain mostly all A's year round with your patience and kindess. 
   Thank you for all that you do.
   Sincerely, Shayla Martinez.
 
