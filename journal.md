@@ -116,3 +116,16 @@ AI cites sources that provide the exact information students might need, whilst 
 # April 14, 2025
 Florida, the state always doing the most, has banned the use of phones and being on social media during school hours. It has valid reasons for doing so, but it also has valid critiscm that follows. I, for one, think it's stupid and that schools should just quit trying to ban phones already. 
 For one, the U.S. is notorious for it's many school shootings. Not only that but Florida is filled with crazy people. You do the math. My mom likes to text me throughout the day to ask me stuff about things like groceries, tests, tutoring, or dance practice. Imagine a school shooter just decides to pop up out of nowhere and I don't even get to tell my mom goodbye. The cyberbullying part is a quick fix in all honesty. Kids just need to learn to speak up for themselves or others, so yeah. Plus, nowadays, no one is cyberbullying anyone.
+
+# April 22, 2025
+Dear Ms Selwyn,
+  Hi, I know this may seem random but I'm sending you this as an appreciation email. I'm not sure if you'll even see this, but if you do sorry if these seems random. For context, I'm doing this as a journal grade and you're probably the only teacher who hasn't ever gotten on my nerves. One thing I appreciate about you is that you allow me to turn in my work late. I'm a huge procrastinator, I get distracted easily, and I have the memory of a goldfish. That's a deadly combo if you ask me. You have single handedly allowed me to maintain mostly all A's year round with your patience and kindess. 
+  Thank you for all that you do.
+  Sincerely, Shayla Martinez.
+
+  # April 28, 2025
+  |Name   |Flavor |Occasion |Price |
+  | ----- | ----- | ------- | ----- |
+  | Sally | Chocolate | Graduation | $35.00 |
+  | Micheal | Vanilla | Farewell Party | $37.00 |
+  | Emma | Carrot | Birthday | $39.00 |
