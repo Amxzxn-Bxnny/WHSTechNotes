@@ -129,3 +129,13 @@ Dear Ms Selwyn,
   | Sally | Chocolate | Graduation | $35.00 |
   | Micheal | Vanilla | Farewell Party | $37.00 |
   | Emma | Carrot | Birthday | $39.00 |
+
+# May 5, 2025
+First of all, put me in a room with a gorilla and I'm coming out victorious. Second of all, we all know 100 modern day men are dumber than a box of rocks. Just kidding, but anyway. I honestly think the men would win. They may not have strenght on their side but they do have resilience and numbers. Plus, if they all attacked at once they could essentially tire out the gorilla and win. Therefore, I think 100 men would come out victorious.
+
+# May 12, 2025
+This whole chromebook challenge is genuinely so stupid. It's just a way for students who are failing to hurt themselves or others for clout. It's dumb and it goes to show why those kids are 'F students'. Honestly, I wouldn't be surprised if they got their computers taken away permanently, or better yet, ISS. I honestly don't know why people do this. Do they need attention at home? Perhaps, but that's not important. 
+This trend isn't a good idea because it hurts students and makes the school have to spend extra money to buy new computers.By stuffing stuff into the charging port and stuff can cause an electrical fire. This is dangerous and can lead to people and students getting hurt. Guess who's gonna have to pay for it? The students parents or the school. Not only that, but the student involved vould be in serious trouble and we all know everyone hates ISS. 
+
+# May 19, 2025
+Am I ready for summer? Heck yeah! Summer is the only time of the year I get to sleep in and not worry about doing pointless work that more than likely won't contribute to my future career nor make me money. This summer, I plan to do driver's ED and get my permit, get a job, build a routine, make some money, and go swimming. I've already applied for a job (wish me luck). I hope my summer isn't all just sitting around the house and doing absolutely nothing. Because that would suck and I would be sad.
